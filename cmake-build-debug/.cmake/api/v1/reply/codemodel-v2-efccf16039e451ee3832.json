@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "find_eigenvalues_QR_rotationmatrix_method",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "find_eigenvalues_QR_rotationmatrix_method::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-find_eigenvalues_QR_rotationmatrix_method-Debug-0a34ad9f5fb8a3cd9049.json",
+					"name" : "find_eigenvalues_QR_rotationmatrix_method",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CLionProjects/C++/find_eigenvalues_QR_rotationmatrix_method/cmake-build-debug",
+		"source" : "D:/CLionProjects/C++/find_eigenvalues_QR_rotationmatrix_method"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
